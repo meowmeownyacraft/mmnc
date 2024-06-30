@@ -1,5 +1,5 @@
 # mmnc (mainline) - The everything repo (Issues, Discussions)
-source repo for issues, suggestions, discussions and everything else, including configuration
+source repo for issues, suggestions, discussions and everything else
 
 this repo is for our mainline server, which runs on the latest version of minecraft
 
